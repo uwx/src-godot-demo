@@ -15197,8 +15197,8 @@ var _emscripten_builtin_memalign = (a0, a1) => (_emscripten_builtin_memalign = w
 var stackSave = () => (stackSave = wasmExports['stackSave'])();
 var stackRestore = (a0) => (stackRestore = wasmExports['stackRestore'])(a0);
 var stackAlloc = (a0) => (stackAlloc = wasmExports['stackAlloc'])(a0);
-var ___start_em_js = Module['___start_em_js'] = 12019751;
-var ___stop_em_js = Module['___stop_em_js'] = 12022770;
+var ___start_em_js = Module['___start_em_js'] = 12035919;
+var ___stop_em_js = Module['___stop_em_js'] = 12038938;
 
 // include: postamble.js
 // === Auto-generated postamble setup entry stuff ===
